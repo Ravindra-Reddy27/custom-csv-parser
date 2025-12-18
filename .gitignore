@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+benchmark_data.csv
+csv_writer_out.csv
+custom_writer_out.csv
