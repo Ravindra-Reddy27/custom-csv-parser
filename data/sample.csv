@@ -1,0 +1,8 @@
+id,name,comment,amount
+1,Ravi,"Hello, World",100
+2,Alice,"He said ""Hi""",250.75
+3,John,"Line one
+Line two",300
+4,Maria,"  leading and trailing space  ",150
+5,David,"Value with, comma and
+""quoted text"" inside",500
